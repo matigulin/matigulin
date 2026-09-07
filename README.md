@@ -1,15 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Никита&fontSize=70&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20TypeScript%20%7C%20Telegram%20bots%20%7C%20automation&descAlignY=60&descSize=16&descColor=FFFFFF" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=180&section=header&text=Nikita&fontSize=64&fontColor=00D9FF&animation=fadeIn&fontAlignY=40&desc=Python%20%7C%20TypeScript%20%7C%20Telegram%20bots%20%7C%20automation&descAlignY=62&descSize=15&descColor=FFFFFF" alt="header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00D9FF&center=true&vCenter=true&width=640&lines=Telegram-боты+и+автоматизация;Python+%2B+TypeScript;FMS+%7C+CityDrive+%7C+MAZE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00D9FF&center=true&vCenter=true&width=640&lines=Telegram+bots+and+automation;Python+%2B+TypeScript;FMS+%7C+CityDrive+%7C+MAZE" alt="typing" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/matigulin"><img src="https://img.shields.io/badge/GitHub-matigulin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/matigulin">
+    <img src="https://img.shields.io/badge/GitHub-matigulin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
 
 ---
@@ -18,10 +20,9 @@
 
 ```python
 class Nikita:
-    def __init__(self):
-        self.stack = ["Python", "TypeScript", "Telegram"]
-        self.focus = "боты, автоматизация, веб"
-        self.projects = ["FMS", "CityDrive", "MAZE"]
+    stack = ["Python", "TypeScript", "Telegram"]
+    focus = "боты, автоматизация, веб"
+    projects = ["FMS", "CityDrive", "MAZE"]
 ```
 
 - Делаю Telegram-ботов под реальные задачи: зоны, статус, геолокация, быстрые оповещения
@@ -30,30 +31,24 @@ class Nikita:
 
 ---
 
-## Навыки и инструменты
+## Навыки
 
-**Языки**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,linux,github,vscode,apple,telegram" alt="skills" />
+</div>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+<br/>
 
-**Стек**
-
-![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**Инструменты**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
 ---
 
@@ -68,18 +63,17 @@ class Nikita:
 
 ---
 
-## Статистика GitHub
+## Статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matigulin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matigulin&theme=github_dark" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matigulin&theme=github_dark" alt="languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=matigulin&theme=tokyonight&hide_border=true" alt="streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matigulin&layout=compact&theme=tokyonight&hide_border=true" alt="languages" />
+  <img src="https://streak-stats.demolab.com/?user=matigulin&theme=dark&hide_border=true" alt="streak" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0D1117&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0D1117&height=100&section=footer" alt="footer" />
 </div>
