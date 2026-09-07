@@ -56,10 +56,9 @@ class Nikita:
 
 | Репозиторий | Описание |
 | --- | --- |
-| [**maze-ui**](https://github.com/matigulin/maze-ui) | MAZE — фронт на Next.js и API на Fastify |
-| [**citidrive-bot**](https://github.com/matigulin/citidrive-bot) | Мониторинг CityDrive в Telegram: зоны, геолокация, ближайшие авто |
-| [**fms-bot**](https://github.com/matigulin/fms-bot) | FMS Telegram-бот: автобер, статус, зоны |
-| [**citydrivebooster**](https://github.com/matigulin/citydrivebooster) | Демо автоматизации задач для водителей CityDrive |
+| [**citydrivebooster**](https://github.com/matigulin/citydrivebooster) | Публичное демо: автоматизация задач для водителей CityDrive |
+
+Остальные боты и сервисы (FMS, CityDrive, MAZE) — в приватных репозиториях.
 
 ---
 
